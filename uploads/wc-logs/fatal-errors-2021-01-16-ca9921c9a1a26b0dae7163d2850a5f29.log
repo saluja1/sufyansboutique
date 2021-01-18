@@ -1,0 +1,11 @@
+2021-01-16T11:23:52+00:00 CRITICAL Uncaught Error: Class 'Goya_Widget_Social_Media' not found in /home/webbewi1/public_html/sufyansboutique/wp-includes/class-wp-widget-factory.php:61
+Stack trace:
+#0 /home/webbewi1/public_html/sufyansboutique/wp-includes/widgets.php(115): WP_Widget_Factory->register('Goya_Widget_Soc...')
+#1 /home/webbewi1/public_html/sufyansboutique/wp-content/plugins/goya-core/includes/widgets/widgets-init.php(29): register_widget('Goya_Widget_Soc...')
+#2 /home/webbewi1/public_html/sufyansboutique/wp-includes/class-wp-hook.php(287): goya_widgets_init('')
+#3 /home/webbewi1/public_html/sufyansboutique/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#4 /home/webbewi1/public_html/sufyansboutique/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#5 /home/webbewi1/public_html/sufyansboutique/wp-includes/widgets.php(1795): do_action('widgets_init')
+#6 /home/webbewi1/public_html/sufyansboutique/wp-includes/class-wp-hook.php(287): wp_widgets_init('')
+#7 /home/webbewi1/public_html/sufyansboutique/wp-includes/c in /home/webbewi1/public_html/sufyansboutique/wp-includes/class-wp-widget-factory.php on line 61
+

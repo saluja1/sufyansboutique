@@ -1,0 +1,392 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Goya\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-03 19:36-0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Loco-Version: 2.3.1; wp-5.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: _n;_e;__;esc_html_e;esc_attr_e;esc_html__;esc_attr_x;"
+"esc_attr__\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"X-Poedit-SearchPathExcluded-1: inc/admin\n"
+"X-Poedit-SearchPathExcluded-2: inc/merlin\n"
+"X-Poedit-SearchPathExcluded-3: inc/wp3menu.php\n"
+"X-Poedit-SearchPathExcluded-4: inc/woocommerce/category-image.php\n"
+"X-Poedit-SearchPathExcluded-5: inc/sidebar.php\n"
+"X-Poedit-SearchPathExcluded-6: woocommerce\n"
+"X-Poedit-SearchPathExcluded-7: inc/misc.php\n"
+
+#: 404.php:17
+msgid "Opps! page not found."
+msgstr ""
+
+#: 404.php:18
+msgid "We are sorry, but the page you're looking for cannot be found."
+msgstr ""
+
+#: 404.php:19
+msgid "Back to homepage"
+msgstr ""
+
+#: archive-portfolio.php:63
+msgid "Portfolio"
+msgstr ""
+
+#: archive-portfolio.php:113 inc/frontend/entry.php:150
+#: inc/script-calls.php:139 inc/woocommerce/wc-functions.php:1301
+msgid "Load More"
+msgstr ""
+
+#: archive-portfolio.php:114
+msgid "All items loaded"
+msgstr ""
+
+#: comments.php:25 inc/templates/postbit/post-meta-single.php:12
+#: inc/templates/postbit/post-meta.php:16
+msgid "on"
+msgstr ""
+
+#: comments.php:36
+msgid "Reply"
+msgstr ""
+
+#: comments.php:54
+msgid "Comments are closed"
+msgstr ""
+
+#: comments.php:69
+msgid "Name"
+msgstr ""
+
+#: comments.php:71
+msgid "Email"
+msgstr ""
+
+#: comments.php:73 inc/templates/portfolio/portfolio-meta-single.php:16
+#: inc/templates/portfolio/portfolio-meta-single.php:18
+msgid "Website"
+msgstr ""
+
+#: comments.php:75
+msgid "Your Comment"
+msgstr ""
+
+#: comments.php:77
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:79
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: comments.php:81
+msgid "Your email address will not be published."
+msgstr ""
+
+#: comments.php:85
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:86
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:89
+msgid "Cancel reply"
+msgstr ""
+
+#: comments.php:91
+msgid "Submit Comment"
+msgstr ""
+
+#: inc/ajax.php:176
+msgid "View All"
+msgstr ""
+
+#: inc/ajax.php:197
+msgid "No results"
+msgstr ""
+
+#: inc/custom-styles.php:865
+msgid "Post Author"
+msgstr ""
+
+#: inc/custom-styles.php:868
+msgid "Required field"
+msgstr ""
+
+#: inc/custom-styles.php:871
+msgid "Featured"
+msgstr ""
+
+#: inc/frontend/entry.php:120 inc/woocommerce/wc-functions.php:136
+msgid "All"
+msgstr ""
+
+#: inc/frontend/entry.php:139 inc/woocommerce/wc-functions.php:34
+msgid "Prev"
+msgstr ""
+
+#: inc/frontend/entry.php:140 inc/frontend/entry.php:212
+#: inc/woocommerce/wc-functions.php:35
+msgid "Next"
+msgstr ""
+
+#: inc/frontend/entry.php:151
+msgid "All posts loaded."
+msgstr ""
+
+#: inc/frontend/entry.php:194
+msgid "Previous"
+msgstr ""
+
+#: inc/frontend/footer.php:196
+msgid "Scroll To Top"
+msgstr ""
+
+#: inc/frontend/header.php:373 inc/templates/header-parts/hamburger.php:10
+msgid "Menu"
+msgstr ""
+
+#: inc/frontend/header.php:679 inc/frontend/header.php:692
+#: inc/frontend/panels.php:145 inc/frontend/panels.php:206
+msgid "Close"
+msgstr ""
+
+#: inc/frontend/header.php:803 inc/woocommerce/wc-elements.php:29
+#: inc/woocommerce/wc-functions.php:468
+msgid "Login"
+msgstr ""
+
+#: inc/frontend/header.php:805 inc/woocommerce/wc-elements.php:18
+msgid "My Account"
+msgstr ""
+
+#: inc/frontend/header.php:807
+msgid "Logout"
+msgstr ""
+
+#: inc/frontend/panels.php:144 inc/woocommerce/wc-elements.php:116
+#: inc/woocommerce/wc-elements.php:117
+msgid "Cart"
+msgstr ""
+
+#: inc/frontend/panels.php:151
+msgid "Updating&hellip;"
+msgstr ""
+
+#: inc/frontend/panels.php:205
+msgid "Search"
+msgstr ""
+
+#: inc/script-calls.php:140
+msgid "Loading ..."
+msgstr ""
+
+#: inc/script-calls.php:141
+msgid "Back"
+msgstr ""
+
+#: inc/script-calls.php:142
+msgid "All Posts Loaded"
+msgstr ""
+
+#: inc/script-calls.php:143
+msgid "All Products Loaded"
+msgstr ""
+
+#: inc/script-calls.php:144
+msgid "No results found."
+msgstr ""
+
+#: inc/script-calls.php:145
+msgid "View cart"
+msgstr ""
+
+#: inc/switchers.php:30 inc/switchers.php:47
+msgid "Currency"
+msgstr ""
+
+#: inc/switchers.php:63
+msgid "Language"
+msgstr ""
+
+#: inc/switchers.php:101
+msgid "Add Languages"
+msgstr ""
+
+#: inc/templates/header/fullscreen-menu.php:40
+msgid "You don't have a menu assigned to this position"
+msgstr ""
+
+#: inc/templates/header/header-product-bar.php:51
+msgid "Select Options"
+msgstr ""
+
+#: inc/templates/not-found.php:5
+#, php-format
+msgid "Ready to publish your first post? %sGet started here%s."
+msgstr ""
+
+#: inc/templates/not-found.php:9
+msgid "Sorry, but nothing matched your search terms."
+msgstr ""
+
+#: inc/templates/not-found.php:10
+msgid "Please try again with some different keywords."
+msgstr ""
+
+#: inc/templates/not-found.php:16
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for."
+msgstr ""
+
+#: inc/templates/portfolio/portfolio-meta-single.php:10
+msgid "Author"
+msgstr ""
+
+#: inc/templates/portfolio/portfolio-meta-single.php:13
+msgid "Date"
+msgstr ""
+
+#: inc/templates/portfolio/related-portfolio.php:38
+msgid "Related Items"
+msgstr ""
+
+#: inc/templates/postbit/post-article.php:110 page.php:128
+msgid "Page"
+msgstr ""
+
+#: inc/templates/postbit/post-article.php:110 page.php:128
+msgid "Pages:"
+msgstr ""
+
+#: inc/templates/postbit/post-article.php:129
+msgid "Posted in: "
+msgstr ""
+
+#: inc/templates/postbit/post-article.php:133
+msgid "Tagged: "
+msgstr ""
+
+#: inc/templates/postbit/post-meta-single.php:12
+#: inc/templates/postbit/post-meta.php:16
+msgid "By"
+msgstr ""
+
+#: inc/templates/postbit/post-related.php:19
+msgid "Related Posts"
+msgstr ""
+
+#: inc/templates/postbit/post-tags.php:16
+msgid "Tags:"
+msgstr ""
+
+#: inc/woocommerce/wc-elements.php:51
+msgid "Wishlist"
+msgstr ""
+
+#: inc/woocommerce/wc-functions.php:65
+msgid "All Categories"
+msgstr ""
+
+#: inc/woocommerce/wc-functions.php:259 inc/woocommerce/wc-functions.php:264
+#: inc/woocommerce/wc-functions.php:312
+msgid "Filters"
+msgstr ""
+
+#: inc/woocommerce/wc-functions.php:313
+msgid "Done"
+msgstr ""
+
+#: inc/woocommerce/wc-functions.php:320
+msgid "Active Filters:"
+msgstr ""
+
+#: inc/woocommerce/wc-functions.php:322
+msgid "Reset All"
+msgstr ""
+
+#: inc/woocommerce/wc-functions.php:433
+msgid "Back to Cart"
+msgstr ""
+
+#: inc/woocommerce/wc-functions.php:437
+msgid "Back to Shop"
+msgstr ""
+
+#: inc/woocommerce/wc-functions.php:437 inc/woocommerce/wc-functions.php:442
+msgid "Continue Shopping"
+msgstr ""
+
+#: inc/woocommerce/wc-functions.php:468
+msgid "Already a member?"
+msgstr ""
+
+#: inc/woocommerce/wc-functions.php:472
+msgid "Not a member?"
+msgstr ""
+
+#: inc/woocommerce/wc-functions.php:472
+msgid "Register"
+msgstr ""
+
+#: inc/woocommerce/wc-functions.php:497
+msgid "Please fill in the required fields"
+msgstr ""
+
+#: inc/woocommerce/wc-functions.php:510
+msgid "Out of Stock"
+msgstr ""
+
+#: inc/woocommerce/wc-functions.php:527
+msgid "New"
+msgstr ""
+
+#: inc/woocommerce/wc-functions.php:558 inc/woocommerce/wc-functions.php:571
+msgid "Off"
+msgstr ""
+
+#: inc/woocommerce/wc-functions.php:576
+msgid "Sale"
+msgstr ""
+
+#: inc/woocommerce/wc-functions.php:1063 inc/woocommerce/wc-functions.php:1092
+#: inc/woocommerce/wc-functions.php:1133
+msgid "Description"
+msgstr ""
+
+#: inc/woocommerce/wc-functions.php:1186
+msgid "Watch Video"
+msgstr ""
+
+#: inc/woocommerce/wc-functions.php:1284
+msgid "Quick View"
+msgstr ""
+
+#: inc/woocommerce/wc-functions.php:1302
+msgid "All products loaded."
+msgstr ""
+
+#: index.php:75
+msgid "Search Results for: "
+msgstr ""
+
+#: searchform.php:4
+msgid "Search &hellip;"
+msgstr ""

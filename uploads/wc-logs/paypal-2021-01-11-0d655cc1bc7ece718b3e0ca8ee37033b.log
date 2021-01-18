@@ -1,0 +1,76 @@
+2021-01-11T18:32:19+00:00 INFO Generating payment form for order 4261. Notify URL: https://sufyansboutique.webbew.in/wc-api/WC_Gateway_Paypal/
+2021-01-11T18:32:19+00:00 INFO PayPal Request Args for order 4261: Array
+(
+    [cmd] => _cart
+    [business] => amit.saluja.106@gmail.com
+    [no_note] => 1
+    [currency_code] => GBP
+    [charset] => utf-8
+    [rm] => 2
+    [upload] => 1
+    [return] => https://sufyansboutique.webbew.in/checkout-2/order-received/4261/?key=wc_order_NhZ8plwiYZAcO&utm_nooverride=1
+    [cancel_return] => https://sufyansboutique.webbew.in/cart-2/?cancel_order=true&order=wc_order_NhZ8plwiYZAcO&order_id=4261&redirect&_wpnonce=b6fe943e93
+    [page_style] => 
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-4261
+    [custom] => {"order_id":4261,"order_key":"wc_order_NhZ8plwiYZAcO"}
+    [notify_url] => https://sufyansboutique.webbew.in/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [no_shipping] => 1
+    [tax_cart] => 0.00
+    [item_name_1] => Ladies Suit in Marina Fabric - XL, 001
+    [quantity_1] => 1
+    [amount_1] => 25
+    [item_number_1] => HTDO833
+    [bn] => WooThemes_Cart
+)
+
+2021-01-11T19:41:41+00:00 INFO Generating payment form for order 4261. Notify URL: https://sufyansboutique.webbew.in/wc-api/WC_Gateway_Paypal/
+2021-01-11T19:41:41+00:00 INFO PayPal Request Args for order 4261: Array
+(
+    [cmd] => _cart
+    [business] => amit.saluja.106@gmail.com
+    [no_note] => 1
+    [currency_code] => GBP
+    [charset] => utf-8
+    [rm] => 2
+    [upload] => 1
+    [return] => https://sufyansboutique.webbew.in/checkout-2/order-received/4261/?key=wc_order_NhZ8plwiYZAcO&utm_nooverride=1
+    [cancel_return] => https://sufyansboutique.webbew.in/cart-2/?cancel_order=true&order=wc_order_NhZ8plwiYZAcO&order_id=4261&redirect&_wpnonce=b6fe943e93
+    [page_style] => 
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-4261
+    [custom] => {"order_id":4261,"order_key":"wc_order_NhZ8plwiYZAcO"}
+    [notify_url] => https://sufyansboutique.webbew.in/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [no_shipping] => 1
+    [tax_cart] => 0.00
+    [item_name_1] => Ladies Suit in Marina Fabric - XL, 001
+    [quantity_1] => 1
+    [amount_1] => 25
+    [item_number_1] => HTDO833
+    [bn] => WooThemes_Cart
+)
+
